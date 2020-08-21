@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: "NCTU AM93"
 timezone: Asia/Taipei
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: "NCTU AM93 同學會"
-baseurl: "/"
+description: "交大應數九三同學會"
+baseurl: ""
 url: "https://hjwu.github.io"
 color: "#f2f2f2"
